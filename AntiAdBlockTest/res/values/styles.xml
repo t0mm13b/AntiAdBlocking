@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="myAntiAdBlockStyle">
+        <item name="adblockShadowColor">@color/Crimson</item>
+        <item name="adblockShadowDx">2</item>
+        <item name="adblockShadowDy">2</item>
+        <item name="adblockShadowRadius">2</item>
+        <!-- Comment the above out, plain text shows minus shadow! -->
+        <item name="adblockTextColor">@color/yellow</item>
+        <item name="adblockTextSize">20sp</item>
+        <item name="adblockDetectedMsg">@string/adblockingsw_detected</item>
+        <item name="adblockNoConnectivityMsg">@string/adblockingsw_noconnectivity</item>
+        <item name="adblockTriggerEvents">true</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">AntiAdBlock</string>
+    <string name="hello_world">Hello world - Test in Progress!!</string>
+    <string name="title_activity_main">Anti-AdBlock Test</string>
+    <string name="adblockingsw_detected">Ad-Blocking detected. It would be appreciated to allow AdMob to pass through for this application to work. After all, the developer has put in their time into this application so please help the developer by tapping on the adverts - Thanks! If you complain about it, fine, by all means do so! BUT do not post negative reviews or ratings as a result of using Ad-Blocking software!</string>
+    <string name="adblockingsw_noconnectivity">No network detected. Please activate your network connection to allow AdMob to function properly. Thank you.</string>
+    <string name="nonet_detected_title">No network detected.</string>
+    <string name="nonet_detected_message">Please activate your network connection to allow AdMob to function properly. Thank you.\n\nThe application will end upon dismissal of the \'Ok\' button.</string>
+    <string name="explain_text">If Adblock is installed - scrolling appears!</string>
+        
+</resources>

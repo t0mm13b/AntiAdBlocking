@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="antiAdBlock">
+        <attr name="adblockShadowColor" format="color|reference" />
+        <attr name="adblockShadowDx" format="float"/>
+        <attr name="adblockShadowDy" format="float"/>
+        <attr name="adblockShadowRadius" format="float"/>
+        <attr name="adblockTextColor" format="color|reference"/>
+        <attr name="adblockTextSize" format="dimension"/>
+        <attr name="adblockDetectedMsg" format="string|reference" />
+        <attr name="adblockNoConnectivityMsg" format="string|reference" />
+        <attr name="adblockTriggerEvents" format="boolean" />
+    </declare-styleable>
+</resources>
